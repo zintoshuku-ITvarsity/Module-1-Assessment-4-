@@ -1,0 +1,31 @@
+table{
+    font-family: helvectica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2695A6;    
+}
+th{
+    font-weight: 800;
+    background-color: aliceblue
+    color: #ffffff;
+}
+#menu-bar{
+    width: 50%;
+    height: 25px;
+    padding-top: 15px;
+    
+}
+#menu-bar a{
+    color: aliceblue;
+     font-family: helvectica, sans-serif;
+    font-size: 20px
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+
+
+
